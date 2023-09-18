@@ -67,201 +67,6 @@ export default class News extends Component {
         "urlToImage": "https://www.reuters.com/resizer/AeKXhqJ9tX4YiZcJ0jVKRxX3-CY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N4D2R2LSHNIDXCDUPDMYGNSD3M.jpg",
         "publishedAt": "2023-09-15T12:10:00Z",
         "content": "Sept 15 (Reuters) - Defence Minister Li Shangfu, who has been missing from public view for more than two weeks, has been placed under investigation by Chinese authorities, according to 10 people fami… [+5310 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MacRumors"
-        },
-        "author": "Juli Clover",
-        "title": "iPhone 15 and iPhone 15 Pro Models Now Available for Pre-Order - MacRumors",
-        "description": "Apple is now accepting pre-orders for the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max through its online storefront and the Apple...",
-        "url": "https://www.macrumors.com/2023/09/15/iphone-15-preorders-now-available/",
-        "urlToImage": "https://images.macrumors.com/t/PgmfX8cFbhHaqJa8c7pDgZal6hQ=/2500x/article-new/2023/09/iPhone-15-and-15-Pro-Pre-Orders-Live-Feature.jpg",
-        "publishedAt": "2023-09-15T12:01:22Z",
-        "content": "Apple is now accepting pre-orders for the iPhone 15, ‌iPhone 15‌ Plus, iPhone 15 Pro, and ‌iPhone 15 Pro‌ Max through its online storefront and the Apple Store app. The Apple Store app is typically t… [+3004 chars]"
-    },
-    {
-        "source": {
-            "id": "reuters",
-            "name": "Reuters"
-        },
-        "author": "Elizabeth Pineau",
-        "title": "Apple moves to defuse French iPhone 12 row as EU scrutiny steps up - Reuters",
-        "description": "Apple <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> pledged on Friday to update software on iPhone 12s in France to settle a row over radiation levels, but concerns in other European countries signalled it may have to…",
-        "url": "https://www.reuters.com/technology/apple-implement-iphone-12-update-next-few-days-france-minister-2023-09-15/",
-        "urlToImage": "https://www.reuters.com/resizer/LQontORQC71_MgsEg5JVjia7zn8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z4WDZW2PBFIKNJVVHVGIPEMA54.jpg",
-        "publishedAt": "2023-09-15T12:01:00Z",
-        "content": "PARIS, Sept 15 (Reuters) - Apple (AAPL.O) pledged on Friday to update software on iPhone 12s in France to settle a row over radiation levels, but concerns in other European countries signalled it may… [+3998 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "Lucien Bruggeman",
-        "title": "Hunter Biden's lawyer says gun statute unconstitutional, case will be dismissed - ABC News",
-        "description": "The younger Biden's attorney spoke to ABC News on Friday.",
-        "url": "https://abcnews.go.com/US/hunter-bidens-lawyer-gun-statute-unconstitutional-case-dismissed/story?id=103214828",
-        "urlToImage": "https://i.abcnewsfe.com/a/2a4eaa75-364b-4995-bd3b-33b917f4597c/hunter-biden-file-ap-ml-230915_1694777023127_hpMain_16x9.jpg?w=992",
-        "publishedAt": "2023-09-15T11:48:45Z",
-        "content": "The attorney for President Joe Biden's son Hunter Biden, who is facing felony gun charges, said Friday that the statute is \"likely unconstitutional\" and he expects \"the case will be dismissed before … [+1549 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MacRumors"
-        },
-        "author": "Tim Hardwick",
-        "title": "iPhone 15 Battery Capacities Revealed in Regulatory Database - MacRumors",
-        "description": "Apple does not advertise battery capacities for its new iPhone 15 lineup, but MySmartPrice has obtained this information from a Chinese regulatory...",
-        "url": "https://www.macrumors.com/2023/09/15/iphone-15-battery-capacities-revealed/",
-        "urlToImage": "https://images.macrumors.com/t/hATRhAJVXdPlaI2YCtUr_lU_GSo=/2976x/article-new/2023/09/iphone-15-lineup-store.jpg",
-        "publishedAt": "2023-09-15T11:31:48Z",
-        "content": "Apple does not advertise battery capacities for its new iPhone 15 lineup, but MySmartPrice has obtained this information from a Chinese regulatory database.\r\nThe Chinese regulatory listing reveals th… [+1782 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Orianna Rosa Royle",
-        "title": "Salesforce CEO Marc Benioff is hiring again–with a particular focus on ‘boomerang’ employees: ‘It’s okay, come back’ - Fortune",
-        "description": "After laying off 10% of its workforce earlier this year.",
-        "url": "https://fortune.com/2023/09/15/salesforce-ceo-marc-benioff-hiring-boomerang-employees-layoffs/",
-        "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1243391211-e1694774880613.jpg?resize=1200,600",
-        "publishedAt": "2023-09-15T11:30:00Z",
-        "content": "Salesforce is hiring (again) after laying off about 10% of its staff earlier this yearand its former workers are being encouraged to apply to the companys 3,300 new roles across sales, engineering, a… [+3487 chars]"
-    },
-    {
-        "source": {
-            "id": "reuters",
-            "name": "Reuters"
-        },
-        "author": "Harshit Verma",
-        "title": "Gold gains as dollar slips, focus shifts to Fed meet next week - Reuters",
-        "description": "Gold recovered from three-week lows on Friday aided by the dollar's retreat after better-than-expected Chinese data and a stronger euro, while traders focussed on the Federal Reserve's guidance on interest rates next week.",
-        "url": "https://www.reuters.com/markets/commodities/gold-rises-after-china-data-boosts-yuan-against-dollar-2023-09-15/",
-        "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=157",
-        "publishedAt": "2023-09-15T11:27:07Z",
-        "content": "Sept 15 (Reuters) - Gold recovered from three-week lows on Friday aided by the dollar's retreat after better-than-expected Chinese data and a stronger euro, while traders focussed on the Federal Rese… [+1741 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "YouTube"
-        },
-        "author": null,
-        "title": "Joe pushes back on Trump documents comment: 'The biggest nonsense' - MSNBC",
-        "description": "Former President Trump discussed having classified documents at his Mar-a-Lago residence Thursday evening during an interview with Megyn Kelly, saying \"I'm a...",
-        "url": "https://www.youtube.com/watch?v=LQ09g6S6KdQ",
-        "urlToImage": "https://i.ytimg.com/vi/LQ09g6S6KdQ/maxresdefault.jpg",
-        "publishedAt": "2023-09-15T11:15:16Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Richard Pallardy",
-        "title": "Mystery of 'living fossil' tree frozen in time for 66 million years finally solved - Livescience.com",
-        "description": "The Wollemi pine was thought to have gone extinct 2 million years ago until it was rediscovered by a group of hikers in 1994. Now, scientists have decoded its genome to understand how it's survived — almost unchanged — since the time of the dinosaurs.",
-        "url": "https://www.livescience.com/planet-earth/plants/mystery-of-living-fossil-tree-frozen-in-time-for-66-million-years-finally-solved",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/aFGzcazaKS34vEKdyaYQRB-1200-80.jpg",
-        "publishedAt": "2023-09-15T11:11:20Z",
-        "content": "The Wollemi pine (Wollemia nobilis) was rediscovered by a group of hikers in 1994.  (Image credit: Dave Watts/Getty Images)\r\nIn 1994, hikers discovered a group of strange trees growing in a canyon in… [+4653 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Khristopher J. Brooks",
-        "title": "United Auto Workers go on strike against Ford, GM, Stellantis - CBS News",
-        "description": "Thousands of employees at plants in Michigan, Missouri and Ohio launched a historic work stoppage against Detroit's Big Three automakers.",
-        "url": "https://www.cbsnews.com/news/united-auto-workers-strike-underway-ford-general-motors-stellantis-big-three/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/15/6e60d8be-3e32-49ee-bfde-d900682ce1b1/thumbnail/1200x630/ac89d3fdb9e129edb9cccdb76550c243/gettyimages-1667308774.jpg?v=6616762727d81e1cb010134e0c556e29",
-        "publishedAt": "2023-09-15T11:09:00Z",
-        "content": "Detroit's Big Three automakers failed to reach a new labor agreement before their contract with employees represented by the United Auto Workers expired at midnight Thursday, triggering one of the la… [+4920 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Annika Kim Constantino",
-        "title": "Covid, RSV and flu vaccines are now available — here's how to decide whether to get them together - CNBC",
-        "description": "Public health officials are urging eligible Americans to take all three shots so the nation can avoid another \"tripledemic\" of Covid, flu and RSV.",
-        "url": "https://www.cnbc.com/2023/09/15/covid-rsv-flu-vaccines-how-to-decide-whether-to-get-them-together.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107300978-1694711585325-gettyimages-1660859705-1347136-me-flu-shots-12-brv.jpeg?v=1694776044&w=1920&h=1080",
-        "publishedAt": "2023-09-15T11:07:24Z",
-        "content": "Pharmacist Ani Martirosyan administers an immunization to a patient at a CVS on Tuesday, Sept. 12, 2023 in Glendale, CA. \r\nFor the first time ever, vaccines for Covid, the flu and respiratory syncyti… [+6718 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Kara Nelson",
-        "title": "60 years after 4 little girls were killed in a KKK attack on the 16th Street Baptist Church, memories of the lives that were taken live on - CNN",
-        "description": "In the 60 years since the 16th Street Baptist Church bombing, the church has been rebuilt, and stained glass has been repaired, but there are still wounds time has yet to heal. Family and friends say decades later they are still holding on to their memories a…",
-        "url": "https://www.cnn.com/2023/09/15/us/16th-street-church-bombing-four-little-girls/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913130349-01-sixteenth-street-baptist-bombing-60th-anniv.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2023-09-15T11:01:00Z",
-        "content": "On the morning of September 15, 1963, Rev. John H. Cross Jr. and members of the 16th Street Baptist Church in Birmingham, Alabama, were preparing to start the Youth Day worship service when a bomb we… [+10700 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Ryan Gould, Amy Or, Ian King, Bloomberg",
-        "title": "SoftBank left millions on the table in Arm IPO in order to get a win for boss Masayoshi Son after a years-long string of losses - Fortune",
-        "description": "After a years-long string of losses.",
-        "url": "https://fortune.com/2023/09/15/softbank-left-millions-arm-ipo-win-boss-masayoshi-son-after-years-losses/",
-        "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1501986394-e1694775102491.jpg?resize=1200,600",
-        "publishedAt": "2023-09-15T10:55:00Z",
-        "content": "Masayoshi Son was determined to turn the tide.His record on tech investing had taken a drubbing after SoftBank Group Corp.s Vision Fund lost $32 billion in a year on flameouts like WeWork and DoorDas… [+5236 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "ESPN staff",
-        "title": "NFL Week 2 picks, schedule, odds, injuries, fantasy tips - ESPN - ESPN",
-        "description": "Here's everything you need to know for the NFL in Week 2, including bold predictions, key stats, fantasy advice and score picks.",
-        "url": "https://www.espn.com/nfl/story/_/id/38400321/nfl-week-2-picks-schedule-fantasy-football-odds-injuries-stats-2023",
-        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0914%2Fr1224495_1296x729_16%2D9.jpg",
-        "publishedAt": "2023-09-15T10:35:00Z",
-        "content": "The Week 2 NFL schedule for the 2023 season is stacked with great matchups, and we have you covered with what you need to know heading into the weekend. Our NFL Nation reporters bring us the biggest … [+37627 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Thomas Schlachter",
-        "title": "Aaron Rodgers says surgery 'went great' following season-ending Achilles injury - CNN",
-        "description": "Aaron Rodgers provided fans with an update following his season-ending Achilles injury just four snaps into his New York Jets debut, indicating that his surgery was successful.",
-        "url": "https://www.cnn.com/2023/09/15/sport/aaron-rodgers-surgery-great-following-injury-spt-intl/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915101045-02-aaron-rodgers-surgery.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2023-09-15T10:17:00Z",
-        "content": "Aaron Rodgers provided fans with an update following his season-ending Achilles injury just four snaps into his New York Jets debut, indicating that his surgery was successful.\r\nThe 39-year-old was s… [+2182 chars]"
-    },
-    {
-        "source": {
-            "id": "reuters",
-            "name": "Reuters"
-        },
-        "author": "Jason Lange, James Oliphant",
-        "title": "Biden weighed by economic concerns, age in potential 2024 rematch with Trump, Reuters/Ipsos poll shows - Reuters",
-        "description": "U.S. President Joe Biden's chances of re-election are being jeopardized by voters' concerns over his age, the economy and crime, according to a Reuters/Ipsos poll, creating an opportunity for Republican challenger Donald Trump to return to the White House.",
-        "url": "https://www.reuters.com/world/us/biden-weighed-by-economic-concerns-age-potential-2024-rematch-with-trump-2023-09-15/",
-        "urlToImage": "https://www.reuters.com/resizer/rRJslVlcRiHrY17ZeLgvSvUZnqM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LWKAJJLWN5NVRFBFINX2DXD5S4.jpg",
-        "publishedAt": "2023-09-15T10:04:00Z",
-        "content": "WASHINGTON, Sept 15 (Reuters) - U.S. President Joe Biden's chances of re-election are being jeopardized by voters' concerns over his age, the economy and crime, according to a Reuters/Ipsos poll, cre… [+4237 chars]"
     }
 ]
 
@@ -276,14 +81,30 @@ constructor (){
     return (
       <div className='container my-3'>
         <h2>Echo360NEWS - Top HeadLines</h2>
-        <div className='d-flex justify-content-center flex-wrap my-3'>
-          {this.state.articles.map((element)=>{
-            return <div key = {element.url}>
-            <NewsItem title = {element.title} imageUrl={element.urlToImage} description = {element.description} />
+        <div id="carouselExampleDark" className="carousel carousel-dark slide" data-bs-ride="carousel" >
+        <div className="carousel-indicators">
+            {this.state.articles.map((element,index)=>{
+                return <button key={element.url} type="button" data-bs-target="#demo" data-bs-slide-to={index} className="active"></button>
+            })}
+        </div>
+        <div className="carousel-inner">
+          {this.state.articles.map((element,index)=>{
+            return <div  key = {element.url}>
+            <NewsItem title = {element.title} classstyle={index?"carousel-item":"carousel-item active"} imageUrl={element.urlToImage} description = {element.description} />
           </div>
           })}
+        </div>
+        <button className="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span className="visually-hidden">Previous</span>
+        </button>
+        <button className="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+        <span className="carousel-control-next-icon" aria-hidden="true"></span>
+        <span className="visually-hidden">Next</span>
+        </button>
         </div>
       </div>
     )
   }
 }
+
