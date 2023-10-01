@@ -1,8 +1,8 @@
-import './App.css';
+import "./App.css";
 
-import React, { Component } from 'react'
-import NavBar from './components/NavBar';
-import News from './components/news';
+import React, { Component } from "react";
+import NavBar from "./components/NavBar";
+import News from "./components/news";
 
 export default class App extends Component {
   render() {
@@ -11,7 +11,6 @@ export default class App extends Component {
         <NavBar />
         <News />
       </div>
-    )
+    );
   }
 }
-
