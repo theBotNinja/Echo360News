@@ -9,7 +9,7 @@ export default class CardNewsItem extends Component {
           href={linkToNews}
           style={{ color: "black", "text-decoration": "none" }}
         >
-          <div className="card" style={style}>
+          <div className="card shadow-sm" style={style}>
             <img src={imageUrl} className="card-img-top h-50" alt="..." />
             <div className="card-body">
               <h5

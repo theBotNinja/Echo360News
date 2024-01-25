@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 
 export default class NavBar extends Component {
+  searchForNews = () =>{
+   let searchQuarry = document.getElementById("searchInput").value;
+   console.log(searchQuarry);
+  }
   render() {
     return (
       <div>
@@ -71,17 +75,18 @@ export default class NavBar extends Component {
                   </ul>
                 </li>
               </ul>
-              <form className="d-flex">
+              <div className="d-flex">
                 <input
                   className="form-control me-2"
                   type="search"
                   placeholder="Search For Something"
                   aria-label="Search"
+                  id="searchInput"
                 />
-                <button className="btn btn-outline-dark" type="submit">
+                <button className="btn btn-outline-dark" onClick={this.searchForNews}>
                   Search
                 </button>
-              </form>
+              </div>
             </div>
           </div>
         </nav>
